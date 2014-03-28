@@ -1,4 +1,0 @@
-SymfonyTest
-===========
-
-SymfonyProject-1
